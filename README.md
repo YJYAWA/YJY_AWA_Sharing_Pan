@@ -1,2 +1,3 @@
 # YJY_AWA_Sharing_Pan
-github当网盘来用了
+用来分享一些有意思的东西
+国内网盘太毒瘤了
